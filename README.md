@@ -1,4 +1,4 @@
-# 👩‍💻 Shalini Singh - Front-End Developer
+# Hola 👋, I'm Shalini Singh 👩‍💻
 
 Hey there! 👋 I'm **Shalini**, a passionate **Front-End Developer** with over 2 years of experience in creating **user-centered**, **visually stunning**, and **interactive** web applications. I specialize in **HTML5**, **CSS3**, **JavaScript**, **React.js**, **Redux**, **Material UI**, and **Bootstrap**, focusing on transforming ideas into seamless digital experiences. 🌟
 
