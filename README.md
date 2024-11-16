@@ -5,6 +5,7 @@ Hey there! 👋 I'm **Shalini**, a passionate **Front-End Developer** with over 
 ## 🚀 About Me
 
 I am highly motivated to build websites that are not only aesthetically pleasing but also **performant**, **responsive**, and **intuitive**. I enjoy optimizing user experiences through clean and maintainable code, while constantly learning new technologies to stay up to date with the ever-evolving web development landscape.
+📫 How to reach me shalinisingh7913@gmail.com
 
 **Skills & Technologies:**
 
