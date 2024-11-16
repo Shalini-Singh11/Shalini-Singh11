@@ -26,5 +26,3 @@ I am highly motivated to build websites that are not only aesthetically pleasing
 
 ### 🌟 Thank you for visiting my profile!  
 Feel free to check out my projects, open an issue, or connect with me if you'd like to collaborate on something exciting! 😊
-
-`<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/uhkgRdrMSnqDBofJru" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/pudgypenguins-fast-type-jim-carrey-uhkgRdrMSnqDBofJru">via GIPHY</a></p>`
