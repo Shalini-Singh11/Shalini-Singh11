@@ -27,4 +27,4 @@ I am highly motivated to build websites that are not only aesthetically pleasing
 ### 🌟 Thank you for visiting my profile!  
 Feel free to check out my projects, open an issue, or connect with me if you'd like to collaborate on something exciting! 😊
 
-https://media.giphy.com/media/uhkgRdrMSnqDBofJru/giphy.gif?cid=ecf05e47lyz00dojs8ferspu5mo387jhi9im6m8ku2b2quxm&ep=v1_gifs_search&rid=giphy.gif&ct=g
+[https://media.giphy.com/media/uhkgRdrMSnqDBofJru/giphy.gif?cid=ecf05e47lyz00dojs8ferspu5mo387jhi9im6m8ku2b2quxm&ep=v1_gifs_search&rid=giphy.gif&ct=g](url)
