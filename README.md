@@ -13,7 +13,7 @@ I am highly motivated to build websites that are not only aesthetically pleasing
 - 🔧 **Languages**: HTML, CSS, JavaScript
 - 🛠️ **Frameworks & Libraries**: React, Bootstrap, Material UI
 - 🔄 **State Management**: Redux, Redux Toolkit, Redux Thunk
-- ⚙️ **Tools**: Git, NPM, JSON Server, API Integration
+- ⚙️ **Tools**: Git, NPM, JSON Server
 - 🎨 **Design**: UI/UX, Cross-Browser Compatibility, Performance Optimization
 
 ## 🚀 Fun Facts
