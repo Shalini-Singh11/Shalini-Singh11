@@ -10,13 +10,13 @@ My development background has given me a strong foundation in problem-solving, A
 
 ## 🚀 About Me
 
-📊 Exploring data engineering concepts, ETL/ELT workflows, and data pipeline development.
-☁️ Learning and building with **Microsoft Fabric**, including Lakehouse, data transformation, and pipeline orchestration.
-🗄️ Practising SQL through joins, CTEs, subqueries, window functions, aggregations, and query optimization.
-🐍 Developing Python skills for data processing, transformation, and automation.
-🔍 Learning to investigate pipeline failures, identify performance bottlenecks, and handle data quality challenges.
-💻 Bringing my frontend experience with React.js, Next.js, and REST APIs into data-driven application development.
-🌱 Continuously learning through certifications, hands-on practice, and project development.
+- 📊 Exploring data engineering concepts, ETL/ELT workflows, and data pipeline development.
+- ☁️ Learning and building with **Microsoft Fabric**, including Lakehouse, data transformation, and pipeline orchestration.
+- 🗄️ Practising SQL through joins, CTEs, subqueries, window functions, aggregations, and query optimization.
+- 🐍 Developing Python skills for data processing, transformation, and automation.
+- 🔍 Learning to investigate pipeline failures, identify performance bottlenecks, and handle data quality challenges.
+- 💻 Bringing my frontend experience with React.js, Next.js, and REST APIs into data-driven application development.
+- 🌱 Continuously learning through certifications, hands-on practice, and project development.
 
 ## 🛠️ Tech Stack & Skills
 
